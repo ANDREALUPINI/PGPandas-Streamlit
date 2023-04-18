@@ -1,0 +1,4 @@
+
+# here you can insert Your query for Your DATABASE PostgreSQL !! 
+# Remember to complete the settings in your Local environment adding the keys into 
+# /.streamlit/secrets.toml file !! 

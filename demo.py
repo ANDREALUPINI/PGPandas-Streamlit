@@ -7,7 +7,6 @@ import plotly.express as px
 import psycopg2
 import seaborn as sns
 import datetime
-import sqlalchemy as db
 
 
 
